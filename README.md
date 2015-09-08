@@ -66,3 +66,4 @@ Links
 * [Backbone.js](http://backbonejs.org/)
 * [JSLint](http://www.jslint.com/)
 * [ES6 Shim](https://github.com/paulmillr/es6-shim/)
+* [Mastering MarkDown](https://guides.github.com/features/mastering-markdown/)
