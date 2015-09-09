@@ -11,6 +11,7 @@ Clase 1
 - [Nodejs](https://nodejs.org/en/)
 - [NodeCopter](http://www.nodecopter.com/)
 - [MarkDown](https://www.wikiwand.com/es/Markdown)
+- [Jquery TimeAgo](http://timeago.yarp.com/)
 
 **Herramientas**
 - [Mastering MarkDown](https://guides.github.com/features/mastering-markdown/)
@@ -21,6 +22,7 @@ Clase 1
 - [JSHint](http://jshint.com/)
 - [Guía de estilos de Mozilla Hispano](https://mhdev.readthedocs.org/es/latest/js-style.html#js-style)
 - [Guía de estilos de Google](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+- [Strict Mode](https://www.codejobs.biz/es/blog/2015/02/17/que-es-y-como-funciona-el-strict-mode-de-javascript)
 
 **Compatibilidad**
 - [ECMA6](https://kangax.github.io/compat-table/es6/)
