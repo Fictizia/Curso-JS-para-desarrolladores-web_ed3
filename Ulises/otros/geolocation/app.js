@@ -1,19 +1,16 @@
 (function() {
-
+// Google Maps        
 google.maps.visualRefresh = true; // Refresco Constante
 
 var map;
 function initialize() {
-  
-  // Definimos el entorno
   var mapOptions = {
     zoom: 15,
     mapTypeId: google.maps.MapTypeId.ROADMAP
   };
   map = new google.maps.Map(document.getElementById('mapa'),
       mapOptions);
-  
-  // Arrancamos geolocation
+    // Try HTML5 geolocation
   if(navigator.geolocation) {
     navigator.geolocation.getCurrentPosition(function(position) {
       var pos = new google.maps.LatLng(position.coords.latitude,
@@ -34,8 +31,8 @@ function initialize() {
       handleNoGeolocation(true);
     });
   } else {
-    // Lanzamos aviso -> Error Navegador
-    handleNoGeolocation(false);// Lanzamos aviso -> Error Servicio
+    // Browser doesn't support Geolocation
+    handleNoGeolocation(false);
   }
 }
 
@@ -76,10 +73,12 @@ function muestraDatos(div, position){
 };
 
 
-//datos Actualización
+//datos Actualizacion
 a.onclick = function() {
         initialize();
         return false;
 }
 
+    
 })();
+        
