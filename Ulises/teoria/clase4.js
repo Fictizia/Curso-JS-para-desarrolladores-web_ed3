@@ -331,11 +331,12 @@ function agregarPasajero(nombre, lista) {
 			if (lista[i] == undefined) {
 				lista[i] = nombre;
 				console.log("El pasajero "+nombre+" añadido con exito, asiento asignado "+(i+1));
+				return true
 			} else if (i == lista.length -1){
 				lista.push(nombre);
 				console.log("El pasajero "+nombre+" añadido con exito, asiento asignado "+(i+1));
 				console.log("INFO: En esta lista no quedan asientos pendientes de asignación.")
-				return
+				return true
 			};
 		};
 	};
@@ -345,14 +346,16 @@ function agregarPasajero(nombre, lista) {
 function quitarPasajero(nombre, lista) {
 	if (lista.length == 0) {
 		console.log("La lista \""+lista+"\" esta vacia.");
+		return false
 	} else {
 		for (var i = 0; i < lista.length; i++) {
 			if(lista[i] == nombre){
 				lista[i] = undefined;
 				console.log("El pasajero \""+nombre+"\" eliminado con exito!")
-				return lista;
+				return true;
 			} else if (i == lista.length -1){
 				console.log("El pasajero \""+nombre+"\" no encontrado!");
+				return false
 			};
 		};
 	};
