@@ -3,8 +3,8 @@ Clase 5
 
 **Más información**
 
--[Instalar Nodejs en MAC](https://changelog.com/install-node-js-with-homebrew-on-os-x/)
--[Instalar MongDB en MAC](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/)
+- [Instalar Nodejs en MAC](https://changelog.com/install-node-js-with-homebrew-on-os-x/)
+- [Instalar MongDB en MAC](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/)
 
 **Teoría**
 
