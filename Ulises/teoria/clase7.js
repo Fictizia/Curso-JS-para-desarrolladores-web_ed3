@@ -2,7 +2,6 @@
 
 /*= TEORÍA =*/
 
-
 /*
 [Objeto = Prototípo]{
     [ Propiedad = Variable ]
@@ -263,7 +262,6 @@ amigos.coincidencias("Jose");
 
 /*= EJERCICIOS =*/
 
-// Nº 1
 /* -- SISTEMA ACUAPÓNICO --
 * Vamos a crear un sistema acuapónico en nuestra oficina.
 * Nuestro objetivo será desarrollar una aplicación para gestionarlo todo.
