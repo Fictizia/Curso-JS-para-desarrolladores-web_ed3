@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Formulario con Firebase</title>
+</head>
+<body>
+ <form action="javascript:subirDatos()" method="POST">
+	<label for="email">Email: </label>
+	  <input id="email" type="email" name="email" placeholder="Correo electrónico" required/><br />
+	<label for="nombre">Nombre: </label>
+	  <input id="nombre" type="text" name="nombre" placeholder="Nombre" required/><br />
+	<label for="apellidos">Apellidos: </label>
+	  <input id="apellidos" type="text" name="apellidos" placeholder="Apellidos" required/><br />  
+	<label for="edad">Edad: </label>
+	  <input id="edad" type="number" name="edad" placeholder="Edad" /><br />
+	 <input id="submit" type="submit"/>
+</form>
+
+<h1>Inscritos</h1>
+<ul id="nuevosInscritos"></ul>
+    <script type='text/javascript' src='https://cdn.firebase.com/js/client/2.2.9/firebase.js'></script>
+    <script type="text/javascript" src="formulario.js"></script>
+
+</body>
+</html>
