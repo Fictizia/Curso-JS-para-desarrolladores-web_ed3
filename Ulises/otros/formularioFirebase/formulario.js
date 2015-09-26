@@ -1,5 +1,5 @@
 // Firebase
-var myFBAdress = "https://experimentos.firebaseio.com/formulario";
+var myFBAdress = "https://<<--APP-->>>.firebaseio.com/formulario";
 var formulario = new Firebase(myFBAdress);
 var inscritos = "";
 document.getElementById('nuevosInscritos').style.display = 'none';
