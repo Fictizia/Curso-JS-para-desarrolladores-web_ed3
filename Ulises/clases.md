@@ -15,6 +15,7 @@ Clase 7 | [Teoría](https://github.com/UlisesGascon/curso-js-web-developers-0920
 Clase 8 | [Teoría](https://github.com/UlisesGascon/curso-js-web-developers-092015/blob/master/Ulises/teoria/clase8.js) | [Recursos](https://github.com/UlisesGascon/curso-js-web-developers-092015/blob/master/Ulises/recursos/clase8.md)
 Clase 9 | [Teoría](https://github.com/UlisesGascon/curso-js-web-developers-092015/blob/master/Ulises/teoria/clase9.js) | [Recursos](https://github.com/UlisesGascon/curso-js-web-developers-092015/blob/master/Ulises/recursos/clase9.md)
 Clase 10 | [Teoría](https://github.com/UlisesGascon/curso-js-web-developers-092015/blob/master/Ulises/teoria/clase10.js) | [Recursos](https://github.com/UlisesGascon/curso-js-web-developers-092015/blob/master/Ulises/recursos/clase10.md)
+Clase 11 | [Teoría](https://github.com/UlisesGascon/curso-js-web-developers-092015/blob/master/Ulises/teoria/clase11.js) | [Recursos](https://github.com/UlisesGascon/curso-js-web-developers-092015/blob/master/Ulises/recursos/clase11.md)
 
 
 **Otros**
@@ -22,3 +23,5 @@ Clase 10 | [Teoría](https://github.com/UlisesGascon/curso-js-web-developers-092
 - [Geolocation HTML5 API](https://github.com/UlisesGascon/curso-js-web-developers-092015/blob/master/Ulises/otros/geolocation)
 - [Formulario con MongoDB](https://github.com/UlisesGascon/curso-js-web-developers-092015/tree/master/Ulises/otros/formularioMongoDB)
 - [Formulario con Firebase](https://github.com/UlisesGascon/curso-js-web-developers-092015/tree/master/Ulises/otros/formularioFirebase)
+- [MovieFire conectada a IMBD con JS](https://github.com/UlisesGascon/curso-js-web-developers-092015/tree/master/Ulises/otros/movieFire/jsFire)
+- [MovieFire conectada a IMBD con Backbone](https://github.com/UlisesGascon/curso-js-web-developers-092015/tree/master/Ulises/otros/movieFire/backFire)
