@@ -1,5 +1,4 @@
 #JavaScript para desarrolladores web
-=================
 ###Programación JavaScript, Backbone.js, programación orientada a objetos, patrones de diseño y MVC
 
 ![Foto Portada](https://scontent.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/11949381_750053528456805_7991316547738746840_n.png?oh=47d111e2e4dada59424c72c3850a6db3&oe=568F64B6)
