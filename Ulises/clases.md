@@ -16,6 +16,7 @@ Clase 8 | [Teoría](https://github.com/UlisesGascon/curso-js-web-developers-0920
 Clase 9 | [Teoría](https://github.com/UlisesGascon/curso-js-web-developers-092015/blob/master/Ulises/teoria/clase9.js) | [Recursos](https://github.com/UlisesGascon/curso-js-web-developers-092015/blob/master/Ulises/recursos/clase9.md)
 Clase 10 | [Teoría](https://github.com/UlisesGascon/curso-js-web-developers-092015/blob/master/Ulises/teoria/clase10.js) | [Recursos](https://github.com/UlisesGascon/curso-js-web-developers-092015/blob/master/Ulises/recursos/clase10.md)
 Clase 11 | [Teoría](https://github.com/UlisesGascon/curso-js-web-developers-092015/blob/master/Ulises/teoria/clase11.js) | [Recursos](https://github.com/UlisesGascon/curso-js-web-developers-092015/blob/master/Ulises/recursos/clase11.md)
+Clase 12 | Repaso | [Recursos](https://github.com/UlisesGascon/curso-js-web-developers-092015/blob/master/Ulises/recursos/clase12.md)
 
 
 **Otros**
